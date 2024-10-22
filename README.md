@@ -1,11 +1,12 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
-<h3>AIM:</h3>
+
 <h3>ENTER YOUR NAME:NITHYAA SRI S S</h3>
 <h3>ENTER YOUR REGISTER:212222230100 NO</h3>
 <h3>EX. NO</h3>
 <h3>DATE22/10/2024</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
+  
 
 ## AIM:
 To perform Matrix Multiplication using CUDA and check its performance with nvprof.
